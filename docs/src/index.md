@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Template directory for creating content sites
-actionText: Quick Start →
-actionLink: /guide/
+heroImage:  /assets/word-logo.png
+tagline: Introduction to Python
+actionText: Get Started!
+actionLink: /intro
 features:
 - title: Feature 1 Title
   details: Feature 1 Description
@@ -11,5 +11,7 @@ features:
   details: Feature 2 Description
 - title: Feature 3 Title
   details: Feature 3 Description
-footer: Made by  with ❤️
+footer: Made by The LEAGUE with ❤️
 ---
+
+This is the index page 
