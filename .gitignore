@@ -1,0 +1,6 @@
+
+lessons/*
+!lessons/.keep
+
+assignments/*
+!assignments/.keep
