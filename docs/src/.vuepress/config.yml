@@ -30,19 +30,9 @@ themeConfig:
   - path: /intro
     title: Introduction
   - children:
-    - path: /lessons/introduction-to-tina-the-turtle/meet-tina-the-turtle/
-      title: Meet Tina the Turtle
     - path: /lessons/introduction-to-tina-the-turtle/shapes-and-colors/
       title: Shapes and Colors
     collapsable: false
     path: /lessons/introduction-to-tina-the-turtle/
     title: Introduction to Tina the Turtle
-  - children:
-    - path: /lessons/fun-with-tina/flaming-ninja-star/
-      title: Flaming Ninja Star
-    - path: /lessons/fun-with-tina/turtle-spiral/
-      title: Turtle Spiral
-    collapsable: false
-    path: /lessons/fun-with-tina/
-    title: Fun with Tina
 title: League Level0 Python

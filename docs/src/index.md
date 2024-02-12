@@ -14,4 +14,4 @@ features:
 footer: Made by The LEAGUE with ❤️
 ---
 
-This is the index page 
+This is the index page for the lesson website. 
