@@ -1,4 +1,4 @@
-# LevelX
+# New Curriculum Template
 
 Template for vuepress-based lesson websites. 
 
