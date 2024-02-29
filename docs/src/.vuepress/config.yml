@@ -1,5 +1,5 @@
-base: /LevelX/
-description: League Level0 Python
+base: /New_Curriculum_Template/
+description: A simple template for new curriculum
 head:
 - - meta
   - content: '#F37121'
@@ -30,9 +30,14 @@ themeConfig:
   - path: /intro
     title: Introduction
   - children:
-    - path: /lessons/introduction-to-tina-the-turtle/shapes-and-colors/
-      title: Shapes and Colors
+    - path: /lessons/lesson1/assignment_a/
+      title: Assignment A
     collapsable: false
-    path: /lessons/introduction-to-tina-the-turtle/
-    title: Introduction to Tina the Turtle
-title: League Level0 Python
+    title: Getting Started
+  - children:
+    - path: /lessons/lesson2/assignment_b/
+      title: Assignment B
+    collapsable: false
+    path: /lessons/lesson2/
+    title: Lesson 2
+title: Example Curriculum Site
