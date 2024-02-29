@@ -10,12 +10,11 @@ NOTE! This is a template site, so use the template, don't clone it.
 
 ### Install the lesson builder program and vuepress
 
-Install the lesson plan program 
+Install the lesson plan program. You can install this like any other python 
+application, but `pipx` is probably, the best. 
 
 ```bash 
-python -mvenv .venv
-source .venv/bin/activate
-pip install git+https://github.com/league-infrastructure/lesson-builder.git#egg=lesson-builder
+pip install git+https://github.com/league-infrastructure/lesson-builder.git
 ```
 
 Install vuepress, if you haven't already.  [See these instructions for details](https://vuepress.vuejs.org/guide/getting-started.html). 

@@ -1,0 +1,24 @@
+title: Example Curriculum Site
+description: A simple template for new curriculum
+pages:
+  - index.md
+  - about.md
+  - intro.md
+resources:
+  - flag.png
+  - word-logo.png
+  - microbit.png
+sidebar:
+  - path: /intro
+    title: Introduction
+lessons:
+  
+  lesson1:
+    title: Getting Started # neet a title b/c there is no index.md
+    assignments:
+     - lesson1/assignment_a.md
+  lesson2:
+    # title: No Title # Don't need title, has index.md
+    assignments:
+    - lesson2/assignment_b.md
+
