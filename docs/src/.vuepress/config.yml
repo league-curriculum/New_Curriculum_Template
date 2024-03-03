@@ -1,5 +1,5 @@
 base: /New_Curriculum_Template/
-description: A simple template for new curriculum
+description: A Demo of the League Curriculum websites
 head:
 - - meta
   - content: '#F37121'
@@ -10,6 +10,25 @@ head:
 - - meta
   - content: black
     name: apple-mobile-web-app-status-bar-style
+- - link
+  - href: https://www.jointheleague.org/wp-content/uploads/2022/06/favicon-32x32-1.png
+    rel: shortcut icon
+    type: image/x-icon
+- - link
+  - href: /icons/favicon-16x16.png
+    rel: icon
+    sizes: 16x16
+    type: image/png
+- - link
+  - href: /icons/favicon-96x96.png
+    rel: icon
+    sizes: 96x96
+    type: image/png
+- - link
+  - href: /icons/favicon-96x96.png
+    rel: icon
+    sizes: 96x96
+    type: image/png
 plugins:
 - '@vuepress/plugin-back-to-top'
 - '@vuepress/plugin-medium-zoom'
@@ -27,7 +46,7 @@ themeConfig:
     text: The LEAGUE
   repo: ''
   sidebar:
-  - path: /intro
+  - path: /
     title: Introduction
   - children:
     - path: /lessons/lesson1/assignment_a/
@@ -40,4 +59,4 @@ themeConfig:
     collapsable: false
     path: /lessons/lesson2/
     title: Lesson 2
-title: Example Curriculum Site
+title: League Demo

@@ -1,5 +1,7 @@
-title: Example Curriculum Site
-description: A simple template for new curriculum
+base: /BaseUrl/
+description: A Demo of the League Curriculum websites
+title: League Demo
+tagline: Igniting Young Minds Through Programming
 pages:
   - index.md
   - about.md
@@ -9,7 +11,7 @@ resources:
   - word-logo.png
   - microbit.png
 sidebar:
-  - path: /intro
+  - path: /
     title: Introduction
 lessons:
   
