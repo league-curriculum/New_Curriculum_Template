@@ -5,7 +5,7 @@ tagline: Igniting Young Minds Through Programming
 pages:
   - index.md
   - about.md
-  - intro.md
+ 
 resources:
   - flag.png
   - word-logo.png
