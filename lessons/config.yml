@@ -12,21 +12,7 @@ head:
   - rel: shortcut icon
     href: https://www.jointheleague.org/wp-content/uploads/2022/06/favicon-32x32-1.png
     type: image/x-icon
-- - link
-  - rel: icon
-    type: image/png
-    sizes: 16x16
-    href: /icons/favicon-16x16.png
-- - link
-  - rel: icon
-    type: image/png
-    sizes: 96x96
-    href: /icons/favicon-96x96.png
-- - link
-  - rel: icon
-    type: image/png
-    sizes: 96x96
-    href: /icons/favicon-96x96.png
+
 plugins:
 - '@vuepress/plugin-back-to-top'
 - '@vuepress/plugin-medium-zoom'
