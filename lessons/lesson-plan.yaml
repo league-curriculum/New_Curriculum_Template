@@ -5,11 +5,9 @@ tagline: Igniting Young Minds Through Programming
 pages:
   - index.md
   - about.md
- 
 resources:
   - flag.png
   - word-logo.png
-  - microbit.png
 sidebar:
   - path: /
     title: Introduction
