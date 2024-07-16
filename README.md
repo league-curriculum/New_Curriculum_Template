@@ -32,7 +32,7 @@ If you have installed yarn previously, you will still need to install in the doc
 Now you can build your website. 
 
 ```bash 
-$ jtl -vv build -l lessons -w
+$ jtl -vv build 
 INFO:lesson_builder.cli.jtl:Using url base 'LevelX'
 INFO:lesson_builder.lesson:Writing lesson plan to docs/src/lessons
 DEBUG:lesson_builder.lesson:Writing Lesson Introduction to Tina the Turtle to docs/src/lessons/introduction-to-tina-the-turtle
@@ -48,9 +48,10 @@ jtl serve
 
 If you get errors, it maybe because you need to install packages with yarn. Try: `(cd docs &&  yarn install )`
 
-If it works, visit  http://localhost:8080/LevelX/ to see you site. 
+If it works, visit the url duisplayed to see your site. 
 
 
+### Update your website. 
 
 
 

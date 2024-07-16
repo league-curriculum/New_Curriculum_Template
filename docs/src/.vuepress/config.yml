@@ -18,7 +18,7 @@ plugins:
 - '@vuepress/plugin-back-to-top'
 - '@vuepress/plugin-medium-zoom'
 themeConfig:
-  displayAllHeaders: true
+  displayAllHeaders: false
   docsDir: ''
   editLinkText: ''
   editLinks: false
@@ -44,4 +44,4 @@ themeConfig:
     collapsable: false
     path: /lessons/lesson2/
     title: Lesson 2
-title: League Demo
+title: League Demo Site

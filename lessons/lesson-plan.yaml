@@ -1,6 +1,6 @@
-base: /BaseUrl/
+
 description: A Demo of the League Curriculum websites
-title: League Demo
+title: League Demo Site
 tagline: Igniting Young Minds Through Programming
 pages:
   - index.md
@@ -14,7 +14,7 @@ sidebar:
 lessons:
   
   lesson1:
-    title: Getting Started # neet a title b/c there is no index.md
+    title: Getting Started # need a title b/c there is no index.md
     assignments:
      - lesson1/assignment_a.md
   lesson2:
